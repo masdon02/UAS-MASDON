@@ -1,0 +1,72 @@
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe.config
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe.config
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.pdb
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.xml
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Data_Mahasiswa.resources
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Menu_Utama.resources
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Operator_Logika.resources
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Operator_Perbandingan.resources
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form1.resources
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Resources.resources
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.vbproj.GenerateResource.Cache
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.exe
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.xml
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Aplikasi Variabel Tipe Data dan Operator\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.pdb
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe.config
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.exe
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.xml
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.pdb
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.pdb
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.xml
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Data_Mahasiswa.resources
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Menu_Utama.resources
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Operator_Logika.resources
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Operator_Perbandingan.resources
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form1.resources
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Data_Dosen.resources
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Resources.resources
+C:\Users\HP\Downloads\visual-2sic4-main\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.vbproj.GenerateResource.Cache
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe.config
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.exe
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.xml
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.pdb
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.pdb
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.xml
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Data_Mahasiswa.resources
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Menu_Utama.resources
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Operator_Logika.resources
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Operator_Perbandingan.resources
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form1.resources
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Data_Dosen.resources
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Resources.resources
+C:\Users\HP\Downloads\UAS Visual Basic Yosama\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.vbproj.GenerateResource.Cache
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe.config
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.exe
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.xml
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.pdb
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.pdb
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.xml
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Data_Mahasiswa.resources
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Menu_Utama.resources
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Operator_Logika.resources
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Operator_Perbandingan.resources
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form1.resources
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Form_Data_Dosen.resources
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi_Variabel_Tipe_Data_dan_Operator.Resources.resources
+C:\Users\HP\Downloads\UAS Visual Basic Suleni\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.vbproj.GenerateResource.Cache
+C:\Users\HP\Downloads\UAS VB Andi\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe.config
+C:\Users\HP\Downloads\UAS VB Andi\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.exe
+C:\Users\HP\Downloads\UAS VB Andi\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.xml
+C:\Users\HP\Downloads\UAS VB Andi\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.pdb
+C:\Users\HP\Downloads\UAS VB\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe.config
+C:\Users\HP\Downloads\UAS VB\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.exe
+C:\Users\HP\Downloads\UAS VB\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.xml
+C:\Users\HP\Downloads\UAS VB\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.pdb
+C:\Users\HP\Downloads\UAS VB Masdon\Aplikasi Variabel Tipe Data dan Operator\bin\Debug\Aplikasi Variabel Tipe Data dan Operator.exe.config
+C:\Users\HP\Downloads\UAS VB Masdon\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.exe
+C:\Users\HP\Downloads\UAS VB Masdon\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.xml
+C:\Users\HP\Downloads\UAS VB Masdon\Aplikasi Variabel Tipe Data dan Operator\obj\Debug\Aplikasi Variabel Tipe Data dan Operator.pdb
